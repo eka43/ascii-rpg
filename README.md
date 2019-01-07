@@ -1,7 +1,7 @@
 # ascii-rpg
 [![ascii-rpg](https://img.youtube.com/vi/BneWp7Pl6lE/0.jpg)](https://www.youtube.com/watch?v=BneWp7Pl6lE)
 
-Click the image, it links to the YouTube Video.<br />
+Click the image, and it links to the YouTube Video.<br />
 
 H - Hero<br />
 ^ - Pet<br />
