@@ -7,6 +7,7 @@ H - Hero<br />
 ^ - Pet<br />
 Y - Tree<br />
 m - Monster<br />
+& - Boss Monster<br />
 O - Portal<br />
 G - Merchant ( Buy, Sell )<br />
 b - Potion<br />
