@@ -12,7 +12,7 @@ O - Portal<br />
 G - Merchant ( Buy, Sell )<br />
 b - Potion<br />
 
-#How To Play
+# How To Play
 H is a hero character. A user can move that hero character by using w,a,s,d keys.<br />
 M is a monster. A hero character can attacks the monter by pressing the one of w,a,s,d keys.<br />
 G is a merchant character.<br />
