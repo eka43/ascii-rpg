@@ -13,11 +13,11 @@ G - Merchant ( Buy, Sell )<br />
 b - Potion<br />
 
 # How To Play
-H is a hero character. A user can move that hero character by using w,a,s,d keys.<br />
-M is a monster. A hero character can attacks the monter by pressing the one of w,a,s,d keys.<br />
+H is a hero character. A user can move hero characters by using w,a,s,d keys.<br />
+M is a monster. A hero character can attack the monster by pressing the one of w,a,s,d keys.<br />
 G is a merchant character.<br />
 A user can buy items from a merchant.<br />
-A pet follow a user's character and automatically attacks monsters<br />
+A pet follows a user's character and automatically attacks monsters<br />
 
 Coded under the Chai's training<br />
 Chai Samil - Senior Programmer<br />
